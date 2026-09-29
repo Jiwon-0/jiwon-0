@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jivvon-0&show_icons=true&theme=radial" alt="My GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiwon-0&show_icons=true&theme=radial" alt="My GitHub stats" />
 </a>
 
 [![Streak Color](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&theme=dark)](https://git.io/streak-stats)
